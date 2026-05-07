@@ -3,4 +3,4 @@
 Frontend Developer Portfolio Website
 
 🔗 Live Demo:
-https://pinkipatel.github.io
+https://pinkysalvi.github.io
